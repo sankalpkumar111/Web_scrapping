@@ -137,4 +137,4 @@ Follow me on [GitHub](https://github.com/sankalpkumar111), [LinkedIn](https://ww
 ## ⭐ Acknowledgements
 
 Thanks to [Django](https://www.djangoproject.com/) and [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/) for powering this project. Enjoy scraping responsibly!
-```
+
